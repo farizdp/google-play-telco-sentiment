@@ -1,0 +1,7 @@
+google-play-scraper
+pandas
+textblob
+vaderSentiment
+tqdm
+langdetect
+openpyxl
